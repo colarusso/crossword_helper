@@ -6,7 +6,7 @@ Across
 9. obit
 10. glue
 11. dent
-12. Meek
+12. meek
 13. accelerator
 14. rent
 15. lisp
